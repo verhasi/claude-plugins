@@ -1,0 +1,10 @@
+{
+  "name": "tdd-squad",
+  "version": "0.1.0",
+  "description": "Five specialized subagents that implement use cases autonomously with a strict Red-Green-Blue TDD loop, with context isolation and quality gates enforced by hooks",
+  "author": {
+    "name": "Istvan Verhas"
+  },
+  "repository": "https://github.com/verhasi/claude-plugins",
+  "keywords": ["tdd", "test-driven", "red-green-refactor", "subagents", "junit", "jest", "vitest", "clean-code"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "verhasi",
+  "description": "Claude Code plugins by Istvan Verhas for agentic software development",
+  "owner": {
+    "name": "Istvan Verhas"
+  },
+  "plugins": [
+    {
+      "name": "tdd-squad",
+      "source": "./tdd-squad",
+      "description": "Five specialized subagents that implement use cases autonomously with a strict Red-Green-Blue TDD loop including optional escalation, with context isolation and quality gates enforced by hooks"
+    }
+  ]
+}
