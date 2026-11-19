@@ -5,6 +5,16 @@
   "author": {
     "name": "Istvan Verhas"
   },
+  "license": "Apache-2.0",
   "repository": "https://github.com/verhasi/claude-plugins",
-  "keywords": ["tdd", "test-driven", "red-green-refactor", "subagents", "junit", "jest", "vitest", "clean-code"]
+  "keywords": [
+    "tdd",
+    "test-driven",
+    "red-green-refactor",
+    "subagents",
+    "junit",
+    "jest",
+    "vitest",
+    "clean-code"
+  ]
 }
